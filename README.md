@@ -22,8 +22,10 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+![image](https://github.com/user-attachments/assets/f846974c-9f4c-4484-b11e-f26ad8ef313d)
 
 
+![image](https://github.com/user-attachments/assets/8b96ea60-fbc3-4ab1-800e-521f8871ce0b)
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
